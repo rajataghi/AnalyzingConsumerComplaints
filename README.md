@@ -11,7 +11,7 @@ The repository has 3 main folders: Milestone 1, 2 and 3. Each folder contains th
   * Existing literature review
   * Data collection and cleaning
   * Exploratory data analysis
-<br>
+  
 * Milestone 2
   * Data cleaning on updated data set
   * Linear Regression
@@ -20,7 +20,7 @@ The repository has 3 main folders: Milestone 1, 2 and 3. Each folder contains th
   * Decision Trees
   * Random Forests
   * Comparative Analysis
-<br>
+
 * Milestone 3
   * Data cleaning on updated data set
   * SVM
